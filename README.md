@@ -1,0 +1,2 @@
+# IoT-based-Smart-Security-System
+The proposed work is to send a signal to lock from a smart phone by using wireless system. Telegram app is used so that the user can get the picture of the person standing outside by making simple command. This allows the user to lock and unlock a door from inside or outside the house within a Wi-Fi range available. . The major components of the system are Raspberry Pi, Solenoid lock. The software used for accessing the Raspberry Pi is MobaXterm.
